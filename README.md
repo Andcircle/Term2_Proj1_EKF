@@ -20,11 +20,11 @@ Radar has nonlinear measure function, which should be linearized use Jacobian ma
 ## Result
 
 
-RMSE |Lidar&Radar  |Radar      |Lidar
-Px   |0.0973       |0.2302     |0.1473
-Py   |0.0855       |0.3464     |0.1153
-Vx   |0.4513       |0.5835     |0.6383
-Vy   |0.4399       |0.8040     |0.5346
+|RMSE |Lidar&Radar  |Radar      |Lidar  |
+|Px   |0.0973       |0.2302     |0.1473 |
+|Py   |0.0855       |0.3464     |0.1153 |
+|Vx   |0.4513       |0.5835     |0.6383 |
+|Vy   |0.4399       |0.8040     |0.5346 |
 
 
 ## How to run the code
