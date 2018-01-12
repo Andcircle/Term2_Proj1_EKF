@@ -9,7 +9,9 @@ The target of this project is to apply Extended Kalman Filter to fuse data from 
   - `FusionEKF.cpp` - initializes the Kalman filter, execute predict and update function of Kalman filter
   - `kalman_filter.cpp`- defines the predict function, the update function for lidar, and the update function for radar
   - `tools.cpp` - calculate RMSE and the Jacobian matrix
- 
+
+## Program Logic
+![Kalman Filter](KF.png)
 
 ## Result
 
