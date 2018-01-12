@@ -27,6 +27,8 @@ Radar has nonlinear measure function, which should be linearized use Jacobian ma
 |Vx   |0.4513       |0.5835     |0.6383 |
 |Vy   |0.4399       |0.8040     |0.5346 |
 
+From the results, it can be seen Lidar is more accurate, while neither of Lidar or Radar can meet the accuracy request seperately.
+
 
 ## How to run the code
 Clone this repo and perform
